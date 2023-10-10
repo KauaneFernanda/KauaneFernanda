@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hey! I'm Kauane Fernanda, welcome to my profile!
+# 💫 Hey! I'm Kauane Fernanda, welcome to my profile!
 
 
 # 💻 Tech Stack:
